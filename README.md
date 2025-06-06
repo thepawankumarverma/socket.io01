@@ -17,7 +17,7 @@ A real-time task management web application built using the MERN stack and Socke
 
 ## 📷 Demo
 
-![Demo Screenshot](demo.png)
+
 
 > You can add a short screen recording or image here showing real-time collaboration in action.
 
